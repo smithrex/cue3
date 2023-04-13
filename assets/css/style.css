@@ -1,0 +1,92 @@
+*{ margin:0;
+    padding: 0;
+
+}
+
+table {
+    margin: 0 auto;
+    margin-top: 30px;
+    border: 1px solid;
+    border-color: grey;
+
+}
+
+
+
+.red {
+    background-color: red;
+    /*padding-left:20px;*/
+    padding-right:20px;
+}
+
+.white {
+    background-color: white;
+    /*padding-left:20px;*/
+    padding-right:20px;
+}
+
+.green {
+    background-color: green;
+    /*padding-left:20px;*/
+    padding-right:20px;
+}
+
+.grey {
+    background-color: grey;
+    /*padding-left:20px;*/
+    padding-right:20px;
+}
+
+.brown {
+    background-color: brown;
+    
+    padding-right:20px;
+}
+
+.blue {
+    background-color: blue;
+        
+    padding-right:20px;
+}
+
+.violet {
+    background-color: violet;
+        
+    padding-right:20px;
+}
+
+.pink {
+    background-color: pink;
+        
+    padding-right:20px;
+}
+
+.yellow {
+    background-color: yellow;
+        
+    padding-right:20px;
+}
+
+.turquoise {
+    background-color: turquoise;
+        
+    padding-right:20px;
+}
+
+.orange {
+    background-color: orange;
+        
+    padding-right:20px;
+}
+
+.purple {
+    background-color: purple;
+    padding-right: 20px;
+}
+
+.black {
+    background-color: black;
+    padding-right: 20px;
+    color: white;
+    
+}
